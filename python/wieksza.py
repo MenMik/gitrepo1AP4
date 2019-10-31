@@ -3,11 +3,13 @@
 
 
 def main(args):
-    #a = 10
     a = input("Podaj liczbę:")
-   #b = 5
-   b = input("Podaj liczbę:")
-    print("Suma:", a + b)
+    b = input("Podaj liczbę:")
+    if a > b:
+        print(a)
+    else:
+        print(b)
+        
     return 0
 
 if __name__ == '__main__':

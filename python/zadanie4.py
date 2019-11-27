@@ -3,7 +3,6 @@
 
 
 def main(args):
-    for in range(
     return 0
 
 if __name__ == '__main__':

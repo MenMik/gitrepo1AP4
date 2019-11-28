@@ -1,0 +1,5 @@
+Notataki
+int - integer, liczba całkowita
+float - floating point, liczba zmienoprzecinkowa, np. 12.345
+cout << - standardowe wyjście, terminal
+cin >> - standardowe wejście, 

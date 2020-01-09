@@ -14,7 +14,7 @@ def pobierzOceny():
         ocena = int(input('Podaj ocenę: '))
     return oceny
      
-        
+                                                                                                                                
 def liczSrednia(oceny):
     print(sum(oceny) / len(oceny)) 
     

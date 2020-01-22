@@ -1,5 +1,23 @@
-Notataki
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+Notataki      C++
 int - integer, liczba całkowita
 float - floating point, liczba zmienoprzecinkowa, np. 12.345
 cout << - standardowe wyjście, terminal
 cin >> - standardowe wejście, 
+
+
+zasięg globalny
+zmienna lokalna
+
+zasięg lokalny
+zmienna lokalna
+
+
+void drukuj () {; }
+int sumuj () { return a; }
+int sumuj (int a, intb) { return; } // przekazanie przez
+void oblicz(int &liczba) { liczba = 5 } // przekazanie przez
+
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
